@@ -12,7 +12,7 @@ options = Options()
 driver = webdriver.Chrome(options=options)
 
 # URL de Waze
-url = 'https://www.waze.com/es/live-map/directions?from=ll.-33.43862191%2C-70.6514132'
+url = 'https://www.waze.com/es/live-map/directions?from=ll.-33.43672386%2C-70.63599586'
 driver.get(url)
 
 # Esperar a que la página cargue completamente

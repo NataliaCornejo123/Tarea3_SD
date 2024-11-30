@@ -22,14 +22,16 @@ services:
     depends_on:
       - zookeeper
 
-
   spark:
-    image: bitnami/spark:latest
+    build: 
+      context: .  # Usa el contexto donde está el Dockerfile
     container_name: spark
     environment:
       - SPARK_MODE=master
     ports:
-      - "8080:8080"
+     - "8080:8080"
+    volumes:
+      - ./spark_processor:/opt/bitnami/spark/app  # Monta toda la carpeta spark_processor en el contenedor
     depends_on:
       - kafka
 
