@@ -28,7 +28,7 @@ def enviar_dato_a_kafka(data):
 
 if __name__ == "__main__":
     # Leer los datos de incidentes desde el archivo JSON
-    with open("incidentes.json", "r") as file:
+    with open("../scrapper/incidentes.json", "r") as file:
         incidentes = json.load(file)
     
     # Enviar datos a Kafka

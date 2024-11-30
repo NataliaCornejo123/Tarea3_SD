@@ -1,0 +1,17 @@
+[
+    {
+        "tipo": "Carretera cerrada",
+        "ubicacion": "Moneda",
+        "hora": "hace 25 min"
+    },
+    {
+        "tipo": "Carretera cerrada",
+        "ubicacion": "Teatinos",
+        "hora": "hace 33 min"
+    },
+    {
+        "tipo": "Carretera cerrada",
+        "ubicacion": "Teatinos",
+        "hora": "hace 38 min"
+    }
+]
