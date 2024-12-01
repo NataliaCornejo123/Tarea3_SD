@@ -1,5 +1,3 @@
-# kafka/producer.py
-
 from confluent_kafka import Producer
 import json
 
@@ -20,7 +18,7 @@ def enviar_dato_a_kafka(data):
 
     # Enviar cada dato de incidente a Kafka
     for incidente in data:
-        producer.produce('waze_topic', value=json.dumps(incidente), callback=acked)
+        producer.produce('traffic_reports', value=json.dumps(incidente), callback=acked)  # Cambió el tópico a 'traffic_reports'
         producer.poll(0)  # Llama a poll para manejar los eventos de envío
 
     # Esperar a que todos los mensajes se envíen
