@@ -1,5 +1,3 @@
-# cassandra/cassandra_storage.py
-
 from cassandra.cluster import Cluster
 from uuid import uuid4
 import json
@@ -31,7 +29,7 @@ def almacenar_incidente(data):
     """, (uuid4(), data['tipo'], data['ubicacion'], data['hora']))
 
 if __name__ == "__main__":
-    with open("incidentes.json", "r") as file:
+    with open("../scrapper/incidentes.json", "r") as file:
         incidentes = json.load(file)
         for incidente in incidentes:
             almacenar_incidente(incidente)

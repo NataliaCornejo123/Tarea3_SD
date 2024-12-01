@@ -1,182 +1,22 @@
 [
     {
-        "tipo": "Conversación",
-        "ubicacion": "Loreto",
-        "hora": "hace 29 min"
-    },
-    {
-        "tipo": "Policía",
-        "ubicacion": "Av. Santa María",
-        "hora": "hace 23 min"
-    },
-    {
-        "tipo": "Accidente automovilístico",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 5 min"
-    },
-    {
-        "tipo": "Conversación",
-        "ubicacion": "Bellavista",
-        "hora": "hace 23 min"
-    },
-    {
-        "tipo": "Conversación",
-        "ubicacion": "Bellavista",
-        "hora": "hace 14 min"
-    },
-    {
-        "tipo": "Policía",
+        "tipo": "Carretera cerrada",
         "ubicacion": "Merced",
-        "hora": "hace 20 min"
-    },
-    {
-        "tipo": "Policía",
-        "ubicacion": "Patronato",
-        "hora": "hace 10 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 54 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 54 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 55 min"
+        "hora": "hace 32 días"
     },
     {
         "tipo": "Carretera cerrada",
         "ubicacion": "Merced",
-        "hora": "hace 30 días"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Merced",
-        "hora": "hace 57 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Pío Nono",
-        "hora": "hace 59 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Pío Nono",
-        "hora": "hace 59 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Pío Nono",
-        "hora": "hace 45 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 16 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 37 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 37 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 37 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 34 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "José Miguel de la Barra",
-        "hora": "hace 42 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Puente Ronald Wood",
-        "hora": "hace 34 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Puente Ronald Wood",
-        "hora": "hace 36 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Puente Ronald Wood",
-        "hora": "hace 34 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Purísima Puente Oriente",
-        "hora": "hace 53 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 54 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 56 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 1h 1 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 55 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 39 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Cardenal José María Caro",
-        "hora": "hace 1 h"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Irene Morales",
-        "hora": "hace 30 días"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Irene Morales",
-        "hora": "hace 30 días"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Loreto",
-        "hora": "hace 36 min"
-    },
-    {
-        "tipo": "Carretera cerrada",
-        "ubicacion": "Av. Costanera Andrés Bello",
-        "hora": "hace 59 min"
+        "hora": "hace 32 días"
     },
     {
         "tipo": "Carretera cerrada",
         "ubicacion": "",
-        "hora": "hace 3 días"
+        "hora": "hace 5 días"
+    },
+    {
+        "tipo": "Carretera cerrada",
+        "ubicacion": "Irene Morales",
+        "hora": "hace 32 días"
     }
 ]
