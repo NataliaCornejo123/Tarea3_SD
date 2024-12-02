@@ -1,8 +1,13 @@
 [
     {
         "tipo": "Policía",
-        "ubicacion": "José Victorino Lastarria",
-        "hora": "hace 41 min"
+        "ubicacion": "Merced",
+        "hora": "hace 19 min"
+    },
+    {
+        "tipo": "Conversación",
+        "ubicacion": "Pío Nono",
+        "hora": "hace 32 min"
     },
     {
         "tipo": "Carretera cerrada",
@@ -17,7 +22,7 @@
     {
         "tipo": "Carretera cerrada",
         "ubicacion": "",
-        "hora": "hace 6 días"
+        "hora": "hace 5 días"
     },
     {
         "tipo": "Carretera cerrada",
@@ -28,5 +33,10 @@
         "tipo": "Carretera cerrada",
         "ubicacion": "Irene Morales",
         "hora": "hace 32 días"
+    },
+    {
+        "tipo": "Obras en la calzada",
+        "ubicacion": "Av. Libertador Bernardo O'Higgins",
+        "hora": "hace 28 min"
     }
 ]
